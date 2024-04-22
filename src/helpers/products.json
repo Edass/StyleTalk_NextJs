@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "sunglasses",
+    "price": 100,
+    "description": "Lorem ipsum ",
+    "category": "Accessories",
+    "image": "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/1071878/pexels-photo-1071878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "title": "skirt",
+    "price": 120,
+    "description": "Lorem ipsum ",
+    "category": "Bottom",
+    "image": "https://images.pexels.com/photos/19220714/pexels-photo-19220714/free-photo-of-gunes-gozlugu-kadin-oturmak-model.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/19220716/pexels-photo-19220716/free-photo-of-gunes-gozlugu-kadin-oturmak-model.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+
+  {
+    "id": 2,
+    "title": "pants",
+    "price": 30,
+    "description": "Lorem ipsum ",
+    "category": "Bottom",
+    "image": "https://images.pexels.com/photos/9811243/pexels-photo-9811243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/9811272/pexels-photo-9811272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "title": "jacket",
+    "price": 40,
+    "description": "Lorem ipsum  ",
+    "category": "Top",
+    "image": "https://images.pexels.com/photos/18416172/pexels-photo-18416172/free-photo-of-kadin-model-park-ayakta.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/18274742/pexels-photo-18274742/free-photo-of-moda-kadin-ayakta-portre-modu.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "title": "sweater",
+    "price": 50,
+    "description": "Lorem ipsum ",
+    "category": "Top",
+    "image": "https://images.pexels.com/photos/6995884/pexels-photo-6995884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/6995902/pexels-photo-6995902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "title": "jeans",
+    "price": 60,
+    "description": "Lorem ipsum ",
+    "category": "Bottom",
+    "image": "https://images.pexels.com/photos/18173612/pexels-photo-18173612/free-photo-of-kadin-model-ayakta-poz.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/18173614/pexels-photo-18173614/free-photo-of-kadin-model-ayakta-poz.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 6,
+    "title": "shoes",
+    "price": 70,
+    "description": "Lorem ipsum ",
+    "category": "Footwear",
+    "image": "https://images.pexels.com/photos/1449844/pexels-photo-1449844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/12551946/pexels-photo-12551946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "title": "hat",
+    "price": 80,
+    "description": "Lorem ipsum ",
+    "category": "Accessories",
+    "image": "https://images.pexels.com/photos/21294957/pexels-photo-21294957/free-photo-of-don-goyo-hazirliklara-basladi.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/21294958/pexels-photo-21294958/free-photo-of-don-goyo-hazirliklara-basladi.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "title": "tshirt",
+    "price": 90,
+    "description": "Lorem ipsum ",
+    "category": "Top",
+    "image": "https://images.pexels.com/photos/6311590/pexels-photo-6311590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/6311652/pexels-photo-6311652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+ 
+  {
+    "id": 10,
+    "title": "belt",
+    "price": 110,
+    "description": "Lorem ipsum ",
+    "category": "Accessories",
+    "image": "https://images.pexels.com/photos/18274742/pexels-photo-18274742/free-photo-of-moda-kadin-ayakta-portre-modu.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/18274742/pexels-photo-18274742/free-photo-of-moda-kadin-ayakta-portre-modu.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 11,
+    "title": "Crop Top",
+    "price": 20,
+    "description": "Lorem ipsum ",
+    "category": "Top",
+    "image": "https://images.pexels.com/photos/3334783/pexels-photo-3334783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image2": "https://images.pexels.com/photos/3334775/pexels-photo-3334775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]

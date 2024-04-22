@@ -1,0 +1,14 @@
+.main-card{
+    .image-second{
+        display: none;
+    }
+    &:hover{
+        .image-first{
+            display: none;
+        }
+        .image-second{
+        display: block;
+        }
+
+    }
+}

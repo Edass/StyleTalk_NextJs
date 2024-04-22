@@ -12,7 +12,7 @@ const ProductCard = ({products}) => {
 
   return (
 
-<Row sm={1} md={2} lg={3} className='g-4'>
+<Row sm={1} md={2} xl={3} className='g-4'>
 
     {products.map(item=>(
 
